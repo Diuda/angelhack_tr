@@ -45,11 +45,6 @@ function user_data($user_id)
 	}
 }
 
-function email_exists($email)
-{
-	$email = sanatize($email);
-	return (mysql_result(mysql_query("Select count(`user_id`) from `users` where `email`='$email'"), 0)==1) ? true : false;
-}
 
 function user_register($register_data)
 {
