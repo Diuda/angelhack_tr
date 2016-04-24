@@ -1,7 +1,7 @@
 $flag=1;
 $( document ).ready(function() {
-	$s=$("#back_top").scrollTop();
-	console.log($s);
+	var s=$("#back_top").scrollTop();
+	console.log(s);
 $("#dw").click(function() {
 	if($flag==1){
     $('html,body').animate({
@@ -21,7 +21,7 @@ $("#dw").click(function() {
 		$flag=1;
 	}
 });
-if($s==null)
+if(s==null)
 {
 	console.log("haha");
 	$("#dw").css("left","24.5%");
