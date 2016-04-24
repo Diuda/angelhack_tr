@@ -32,10 +32,6 @@ if(!empty($_POST) && empty($errors)===true)
 		$errors[]='Enter a valid email address';
 	}
 
-	if(email_exists($_POST['email'])===true)
-	{
-		$errors[]='Email \'' .$_POST['email'].'\' already exists ' ;
-	}
 
 }
 print_r($errors);
