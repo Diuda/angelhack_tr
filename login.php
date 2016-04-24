@@ -17,7 +17,7 @@ $errors[]='Please enter username and password';
 	else
 	{
 		$_SESSION['user_id']=$login;
-		header('Location:index.php');
+		header('Location:loggedin.php');
 		exit();
 	}
 
