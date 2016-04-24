@@ -17,8 +17,8 @@ show_reviews($location,$locality);
 
 ?>
 
-<!-- <form method="post" action="show.php"><br>
+<form method="post" action="show.php"><br>
 <input name="location" placeholder="Enter your Location"></input><br>
 <input name="locality" placeholder="Enter your Locality	"></input><br>
 <input type="submit" value="Search for reviews"></input>
-</form> -->
+</form>

@@ -90,11 +90,10 @@ function show_reviews($location,$locality)
 	$rev=mysql_query("select `reviews` from `reviews` where `loc_id`='$id'");
 	if(mysql_num_rows($rev)>0)
 	{
-		header('Location:review.php');
 		while($review=mysql_fetch_assoc($rev))
 		{
 
-			echo $review['reviews'];
+			echo $review['reviews']."<br>";
 		}
 	}
 }
