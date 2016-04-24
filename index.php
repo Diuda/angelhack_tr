@@ -68,8 +68,8 @@ include 'init.php'
 </div>
 <div>
 <div class="head">
-	<div class="scroll">
-	  <div class="row row">
+  <div class="scroll">
+    <div class="row row">
   <div class="col s12 m7">
     <div class="card-panel teal">
       <h2 class="white-text">Top 10 Places
@@ -77,13 +77,12 @@ include 'init.php'
     </div>
   </div>
 </div>
-	<div class="row mar">
+  <div class="row mar">
     <div class="col s12 m7">
       <div class="card blue-grey">
         <div class="card-content white-text">
-          <span class="card-title">1. Blah Blah</span>
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <span class="card-title">1. Lorem ipsum</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacinia at tortor at luctus. Vivamus leo est, feugiat sed ipsum vitae, lacinia fermentum arcu. Etiam sit amet dolor sit amet nisi porta ullamcorper.</p>
         </div>
         <div class="card-action">
           <a href="#">Visit</a>
@@ -96,9 +95,8 @@ include 'init.php'
     <div class="col s12 m7">
       <div class="card blue-grey">
         <div class="card-content white-text">
-          <span class="card-title">1. Blah Blah</span>
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <span class="card-title">1. Lorem ipsum</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacinia at tortor at luctus. Vivamus leo est, feugiat sed ipsum vitae, lacinia fermentum arcu. Etiam sit amet dolor sit amet nisi porta ullamcorper.</p>
         </div>
         <div class="card-action">
           <a href="#">Visit</a>
@@ -111,9 +109,8 @@ include 'init.php'
     <div class="col s12 m7">
       <div class="card blue-grey">
         <div class="card-content white-text">
-          <span class="card-title">1. Blah Blah</span>
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <span class="card-title">1. Lorem ipsum</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacinia at tortor at luctus. Vivamus leo est, feugiat sed ipsum vitae, lacinia fermentum arcu. Etiam sit amet dolor sit amet nisi porta ullamcorper.</p>
         </div>
         <div class="card-action">
           <a href="#">Visit</a>
@@ -126,9 +123,8 @@ include 'init.php'
     <div class="col s12 m7">
       <div class="card blue-grey">
         <div class="card-content white-text">
-          <span class="card-title">1. Blah Blah</span>
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <span class="card-title">1. Lorem ipsum</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacinia at tortor at luctus. Vivamus leo est, feugiat sed ipsum vitae, lacinia fermentum arcu. Etiam sit amet dolor sit amet nisi porta ullamcorper.</p>
         </div>
         <div class="card-action">
           <a href="#">Visit</a>
@@ -141,9 +137,8 @@ include 'init.php'
     <div class="col s12 m7">
       <div class="card blue-grey">
         <div class="card-content white-text">
-          <span class="card-title">1. Blah Blah</span>
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <span class="card-title">1. Lorem ipsum</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacinia at tortor at luctus. Vivamus leo est, feugiat sed ipsum vitae, lacinia fermentum arcu. Etiam sit amet dolor sit amet nisi porta ullamcorper.</p>
         </div>
         <div class="card-action">
           <a href="#">Visit</a>
@@ -156,9 +151,8 @@ include 'init.php'
     <div class="col s12 m7">
       <div class="card blue-grey">
         <div class="card-content white-text">
-          <span class="card-title">1. Blah Blah</span>
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <span class="card-title">1. Lorem ipsum</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacinia at tortor at luctus. Vivamus leo est, feugiat sed ipsum vitae, lacinia fermentum arcu. Etiam sit amet dolor sit amet nisi porta ullamcorper.</p>
         </div>
         <div class="card-action">
           <a href="#">Visit</a>
@@ -171,9 +165,8 @@ include 'init.php'
     <div class="col s12 m7">
       <div class="card blue-grey">
         <div class="card-content white-text">
-          <span class="card-title">1. Blah Blah</span>
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <span class="card-title">1. Lorem ipsum</span>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacinia at tortor at luctus. Vivamus leo est, feugiat sed ipsum vitae, lacinia fermentum arcu. Etiam sit amet dolor sit amet nisi porta ullamcorper.</p>
         </div>
         <div class="card-action">
           <a href="#">Visit</a>
@@ -182,7 +175,7 @@ include 'init.php'
       </div>
     </div>
   </div>
-	<div>
+  <div>
 </div>
 </div>
 </body>
